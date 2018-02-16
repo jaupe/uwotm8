@@ -28,19 +28,31 @@ uwotm8>/+1 2 3 4
 ```
 
 ```
+# Cumulative sum
+uwotm8>\+1 2 3 4
+1 3 6 10
+```
+
+```
 # Adding two vectors together
 uwotm8>1 2 3+1 2 3
 2 4 6
 ```
 
-'''
+```
 # Adding a vector to a scalar 
 uwotm8>1 2 3+1
 2 3 4 
-'''
+```
 
-Multiplying two vectors
-'''
+```
+#Multiplying two vectors
 uwotmu8>2 3 4 * 2 3 4
 4 9 16
-'''
+```
+
+```
+#Multplying a vector by a scalar
+uwotm8>2 3 4*2
+4 6 8
+```
