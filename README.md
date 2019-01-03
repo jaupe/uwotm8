@@ -1,5 +1,5 @@
 # uwotm8
-A vector-algebra calculator for calculations using extreme brevity. It's inspired by Arthur Whitney's K programming language. The name - uwotm8 - comes from a well known British slang derived from mobile phone slang
+A toy vector-algebra calculator for calculations using extreme brevity. It's inspired by APL. The name - uwotm8 - comes from a well known British slang derived from mobile phone slang
 
 ## Introduction
 
